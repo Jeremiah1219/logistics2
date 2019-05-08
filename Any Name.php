@@ -1,4 +1,4 @@
-#for new project
+//for new project:
 open git bash first 
 
 type:
@@ -10,3 +10,15 @@ git commit -a -m "Your comment Here"
 git log 
 
 git push -u yourvariableforrepository master
+
+//when created/ added a new file you should do:
+
+git add
+git commit -a -m "your comment Here"
+git push -u yourvariableforrepository branchOrMaster
+
+//to know the variable name of your repository:
+git remote -v
+
+//To change directory
+git checkout directoryName
