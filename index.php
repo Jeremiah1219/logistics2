@@ -1,3 +1,6 @@
+
+branching means
+
 git branch newbranch
 git checkout newbranch
 git add . 
